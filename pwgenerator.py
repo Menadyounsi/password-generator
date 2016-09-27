@@ -24,7 +24,7 @@ def Pwgenerate(numchar):
     print output
 
 
-print "Hello and welcome to Menad's random password generator"
+print "\nHere are your generated passwords. Thank you for using this app: \n\n"
 
 def Number(quantity, length):
     count = 0
